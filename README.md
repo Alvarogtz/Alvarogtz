@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World! 👋
+
+This is my repository to upload tests, exercises and so on ⚡
 
 <!--
 **Alvarogtz/Alvarogtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
